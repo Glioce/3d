@@ -9,3 +9,5 @@
 - ferrari f 40 trasero
 - FERRARI F50DELANTERO
 - FERRARI F50TRASERO
+- ferrari monza sp1
+- frenos disco
